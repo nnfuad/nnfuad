@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi it's Fuad 👋
 
 <!--
 **nnfuad/nnfuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
