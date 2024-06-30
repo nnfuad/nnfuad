@@ -10,7 +10,7 @@
 - 📫 How to reach me **nnfuad01@gmail.com**
 
 - ⚡ Fun fact **I can't ride a bicycle :)**
-- RUETIAN
+- **RUETIAN**
 
 <h3 align="left">Connect with me:</h3>
 socials:
