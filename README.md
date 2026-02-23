@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fuad</h1>
 <h3 align="center">A passionate tech enthusiasist from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Cyber-security basics**
+- 🤖 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **different programming languages and linux CLI.**
+- 🌱 I’m currently learning **different ML algorithms**
 
-- 💬 Ask me about **Linux, LLMs, C**
+- 💬 Ask me about **Linux, CNNs, Politi🫢**
 
 - 📫 How to reach me **nnfuad01@gmail.com**
 
-- ⚡ Fun fact **I can't ride a bicycle :)**
+- ⚡ Fun fact **I recently learnt to ride a bicycle :)**
 - **RUETIAN**
 
 <h3 align="left">Connect with me:</h3>
