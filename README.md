@@ -51,7 +51,7 @@
 ## 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,bash,linux,git,mysql,html,css,arduino,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,node,lanchain,cpp,c,java,bash,linux,git,mysql,html,css,arduino,matlab" />
 </p>
 
 ---
