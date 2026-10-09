@@ -75,12 +75,12 @@ class Fuad:
 
         self.interests = [
             "Machine Learning",
-            "Computer Vision",
-            "Linux",
+            "Deep Learning",
+            "Power Grids",
             "Cybersecurity"
         ]
 
-        self.current_focus = "Building ML systems"
+        self.current_focus = "Building Reliable ML systems"
 
     def mindset(self):
         return "Stay curious."
